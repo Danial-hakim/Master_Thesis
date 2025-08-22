@@ -1,0 +1,6 @@
+path: Nomad_yolo
+train: images/train
+val: images/val
+
+names:
+  0: person
